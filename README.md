@@ -3,6 +3,7 @@
 
 ## 📊 자기 소개 (Introduction)
 ### 안녕하세요. 데이터 분석 및 머신러닝을 기반으로 부동산 분석 및 LLM활용 , Geocode까지 아우르는 데이터 기반 솔루션을 구축하는 신입 데이터 사이언티스트 구경덕입니다.
+<br>
 ------
 
 <!-- - 한줄 자기소개 
@@ -32,6 +33,7 @@
 
 - 효과적인 커뮤니케이션 스킬과 협상 능력을 바탕으로 매매시작 3일만에 계약 달성
 - 매도자와 원활한 거래 중개 및 협상 능력을 바탕으로 매물등록 건수 월 35건으로 팀내 1위 달성
+<br>
 ------
 <br>
 <br>
@@ -46,6 +48,7 @@
 🏫 신흥대학교 (2011.03 - 2015.07)
 
 - 부동산 전공 & 지적부동산학과
+<br>
 ------
 <br>
 <br>
@@ -57,6 +60,7 @@
 - LLM - RAG , Streamlit
 - Cloud - GCP , Google maps API
 - Archive - Github , Notion
+<br>
 ------
 <br>
 <br>
@@ -89,4 +93,7 @@
 
 [Data Preprocessing & Corr / Heatmap & XGBoost](https://github.com/Kyungdeok-Koo/Real_Estate_Transaction_Price_Information_2024)
 - 실제 2024년 거래된 부동산의 가격에 영향을 미치는 요인들을 찾고 인사이트를 도출하는 시스템을 제공할 수 있어요.
+<br>
 ------
+
+<br>
