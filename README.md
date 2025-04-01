@@ -45,10 +45,11 @@
 
 
 ## 📊 보유 스킬 (Skill)
-- Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geo
+- Python - Pandas, Numpy, Matplotlib, Sklearn, Seaborn Crawling, Geo
 - SQL - DBMS, RDBMS
-- LLM - RAG
+- LLM - RAG , Streamlit
 - Cloud - GCP , Google maps API
+- archive - Github , Notion
 ------
 
 
