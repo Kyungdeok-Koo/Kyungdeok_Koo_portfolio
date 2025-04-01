@@ -2,7 +2,7 @@
 * [무료 이미지 사이트](https://unsplash.com/)-->
 
 ## 📊 자기 소개 (Introduction)
-### 안녕하세요. 데이터 분석 및 머신러닝을 기반으로 부동산 분석 및 LLM활용 , Geocode까지 아우르는 데이터 기반 솔루션을 구축하는 신입 데이터 사이언티스트 구경덕입니다.
+### 안녕하세요. 데이터 분석 및 머신러닝을 기반으로 부동산 분석 및 LLM활용 , Geocoding까지 아우르는 데이터 기반 솔루션을 구축하는 신입 데이터 사이언티스트 구경덕입니다.
 
 ------
 
@@ -65,7 +65,7 @@
 <br>
 
 ## 📊 보유 스킬 (Skill)
-##### -  Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geocode
+##### -  Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geocoding
 ##### -  SQL - DBMS, RDBMS
 ##### -  LLM - RAG , Streamlit
 ##### -  Cloud - GCP , Google maps API
@@ -92,7 +92,7 @@
 </p>
 
 
-[Crawling & Topic modeling & Geocode: 북한 뉴스 기사 관련 주제 및 지리정보 도출 시스템](https://github.com/Kyungdeok-Koo/GeOdyssey)
+[Crawling & Topic modeling & Geocoding: 북한 뉴스 기사 관련 주제 및 지리정보 도출 시스템](https://github.com/Kyungdeok-Koo/GeOdyssey)
 ##### -  토픽모델링을 활용하여 주요 쟁점 및 흐름을 구조화하고, 북한 동향을 파악하고 미래 예측을 하기 위한 데이터 기반 구축을 할 수 있어요.
 <br>
 <br>
