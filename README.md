@@ -63,14 +63,20 @@
 <br>
 
 ## 📊 프로젝트 (Project)
-![Lang_chain](assets/img/Lang_chain.png)
+
+<p align="center">
+  <img src="assets/img/Lang_chain.png" alt="Lang_chain">
+</p>
 
 [LLM & RAG: AI 기반 금융 뉴스 요약 솔루션](https://github.com/Kyungdeok-Koo/FinPin_Langchain)
 - 금융키워드를 검색했을때 여러 뉴스 사이트에서 제공하는 데이터셋(네이버, 구글 등)을 기반으로 금융 뉴스를 요약해주는 솔루션을 제공하였습니다.
 <br>
 <br>
 
-![GeOdyssey](assets/img/GeOdyssey.png)
+<p align="center">
+  <img src="assets/img/GeOdyssey.png" alt="GeOdyssey">
+</p>
+
 
 [Crawling & Topic modeling & Geo](https://github.com/Kyungdeok-Koo/GeOdyssey)
 - 토픽모델링을 활용하여 주요 쟁점 및 흐름을 구조화하고, 북한 동향을 파악하고 미래 예측을 하기 위한 데이터 기반 구축을 할 수 있어요.
