@@ -45,8 +45,10 @@
 
 
 ## 📊 보유 스킬 (Skill)
-- Python - Pandas, Numpy, Matplotlib, Sklearn
+- Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geo
 - SQL - DBMS, RDBMS
+- LLM - RAG
+- Cloud - GCP , Google maps API
 ------
 
 
