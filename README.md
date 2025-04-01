@@ -12,6 +12,9 @@
 > 
 > 
 
+<br>
+<br>
+<br>
 
 ## 📊 직무 경험 (Experience)
 **반도체배관 생산** @ 비비테크 & 한양이엔지 (2023/03 - 2023/11)
@@ -30,7 +33,9 @@
 - 효과적인 커뮤니케이션 스킬과 협상 능력을 바탕으로 매매시작 3일만에 계약 달성
 - 매도자와 원활한 거래 중개 및 협상 능력을 바탕으로 매물등록 건수 월 35건으로 팀내 1위 달성
 ------
-
+<br>
+<br>
+<br>
 
 
 ## 📊 교육 (Education)
@@ -42,7 +47,9 @@
 
 - 부동산 전공 & 지적부동산학과
 ------
-
+<br>
+<br>
+<br>
 
 ## 📊 보유 스킬 (Skill)
 - Python - Pandas, Numpy, Matplotlib, Sklearn, Seaborn, Crawling, Geo
@@ -51,18 +58,21 @@
 - Cloud - GCP , Google maps API
 - archive - Github , Notion
 ------
-
+<br>
+<br>
+<br>
 
 ## 📊 프로젝트 (Project)
-![trash](assets/img/Lang_chain.png)
+![Lang_chain](assets/img/Lang_chain.png)
 
 [LLM & RAG: AI 기반 금융 뉴스 요약 솔루션](https://github.com/Kyungdeok-Koo/FinPin_Langchain)
 - 금융키워드를 검색했을때 여러 뉴스 사이트에서 제공하는 데이터셋(네이버, 구글 등)을 기반으로 금융 뉴스를 요약해주는 솔루션을 제공하였습니다.
+<br>
+<br>
+![GeOdyssey](assets/img/GeOdyssey.png)
 
-![newyork](assets/img/newyork.jpeg)
-
-[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
-- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
+[Crawling & Topic modeling & Geo](https://github.com/Kyungdeok-Koo/GeOdyssey)
+- 토픽모델링을 활용하여 주요 쟁점 및 흐름을 구조화하고, 북한 동향을 파악하고 미래 예측을 하기 위한 데이터 기반 구축을 할 수 있어요.
 
 ![newyork](assets/img/newyork.jpeg)
 
