@@ -69,6 +69,7 @@
 - 금융키워드를 검색했을때 여러 뉴스 사이트에서 제공하는 데이터셋(네이버, 구글 등)을 기반으로 금융 뉴스를 요약해주는 솔루션을 제공하였습니다.
 <br>
 <br>
+
 ![GeOdyssey](assets/img/GeOdyssey.png)
 
 [Crawling & Topic modeling & Geo](https://github.com/Kyungdeok-Koo/GeOdyssey)
