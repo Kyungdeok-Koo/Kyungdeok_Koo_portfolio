@@ -2,7 +2,7 @@
 * [무료 이미지 사이트](https://unsplash.com/)-->
 
 ## 📊 자기 소개 (Introduction)
-### 안녕하세요. 데이터 분석 및 머신러닝을 기반으로 부동산 분석 및 LLM활용 , 모델 최적화까지 아우르는 데이터 기반 솔루션을 구축하는 신입 데이터 사이언티스트 구경덕입니다.
+### 안녕하세요. 데이터 분석 및 머신러닝을 기반으로 부동산 분석 및 LLM활용 , Geocode까지 아우르는 데이터 기반 솔루션을 구축하는 신입 데이터 사이언티스트 구경덕입니다.
 ------
 
 <!-- - 한줄 자기소개 
@@ -52,11 +52,11 @@
 <br>
 
 ## 📊 보유 스킬 (Skill)
-- Python - Pandas, Numpy, Matplotlib, Sklearn, Seaborn, Crawling, Geo
+- Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geoint
 - SQL - DBMS, RDBMS
 - LLM - RAG , Streamlit
 - Cloud - GCP , Google maps API
-- archive - Github , Notion
+- Archive - Github , Notion
 ------
 <br>
 <br>
@@ -80,9 +80,13 @@
 
 [Crawling & Topic modeling & Geo](https://github.com/Kyungdeok-Koo/GeOdyssey)
 - 토픽모델링을 활용하여 주요 쟁점 및 흐름을 구조화하고, 북한 동향을 파악하고 미래 예측을 하기 위한 데이터 기반 구축을 할 수 있어요.
+<br>
+<br>
 
-![newyork](assets/img/newyork.jpeg)
+<p align="center">
+  <img src="assets/img/Real_Estate_2024.png" alt="Real_Estate_2024">
+</p>
 
-[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
-- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
+[Data Preprocessing & Corr / Heatmap & XGBoost](https://github.com/Kyungdeok-Koo/Real_Estate_Transaction_Price_Information_2024)
+- 실제 2024년 거래된 부동산의 가격에 영향을 미치는 요인들을 찾고 인사이트를 도출하는 시스템을 제공할 수 있어요.
 ------
