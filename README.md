@@ -45,7 +45,7 @@
 
 
 ## 📊 보유 스킬 (Skill)
-- Python - Pandas, Numpy, Matplotlib, Sklearn, Seaborn Crawling, Geo
+- Python - Pandas, Numpy, Matplotlib, Sklearn, Seaborn, Crawling, Geo
 - SQL - DBMS, RDBMS
 - LLM - RAG , Streamlit
 - Cloud - GCP , Google maps API
