@@ -65,7 +65,7 @@
 <br>
 
 ## 📊 보유 스킬 (Skill)
-##### -  Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geoint
+##### -  Python - Pandas, Numpy, Matplotlib, Sklearn, Crawling, Geocode
 ##### -  SQL - DBMS, RDBMS
 ##### -  LLM - RAG , Streamlit
 ##### -  Cloud - GCP , Google maps API
@@ -92,7 +92,7 @@
 </p>
 
 
-[Crawling & Topic modeling & Geoint: 북한 뉴스 기사 관련 주제 및 지리정보 도출 시스템](https://github.com/Kyungdeok-Koo/GeOdyssey)
+[Crawling & Topic modeling & Geocode: 북한 뉴스 기사 관련 주제 및 지리정보 도출 시스템](https://github.com/Kyungdeok-Koo/GeOdyssey)
 ##### -  토픽모델링을 활용하여 주요 쟁점 및 흐름을 구조화하고, 북한 동향을 파악하고 미래 예측을 하기 위한 데이터 기반 구축을 할 수 있어요.
 <br>
 <br>
@@ -101,7 +101,7 @@
   <img src="assets/img/Real_Estate_2024.png" alt="Real_Estate_2024">
 </p>
 
-[Data Preprocessing & Corr / Heatmap & XGBoost: 2024년 부동산 거래 가격 영향 요인 분석 및 인사이트 도출 시스템](https://github.com/Kyungdeok-Koo/Real_Estate_Transaction_Price_Information_2024)
+[Data Preprocessing & Corr.Heatmap & XGBoost: 2024년 부동산 거래 가격 영향 요인 분석 및 인사이트 도출 시스템](https://github.com/Kyungdeok-Koo/Real_Estate_Transaction_Price_Information_2024)
 ##### -  2024년 부동산 거래 가격에 영향을 미치는 요소를 분석하고 예측 모델을 통해 가격 예측 성능을 평가할 수 있어요.
 
 ------
