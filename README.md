@@ -1,10 +1,9 @@
-* [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
-* [무료 이미지 사이트](https://unsplash.com/)
+<!-- * [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
+* [무료 이미지 사이트](https://unsplash.com/)-->
 
 ## 📊 자기 소개 (Introduction)
-------
-
 ### 안녕하세요. 데이터 분석 및 머신러닝을 기반으로 부동산 분석 및 모델 최적화까지 아우르는 데이터 기반 솔루션을 구축하는 신입 데이터 사이언티스트 구경덕입니다.
+------
 
 <!-- - 한줄 자기소개 
 예시)"데이터 분석에 뛰어난 역량과 실무 경험을 갖춘 데이터 엔지니어로, 복잡한 문제에 효과적인 솔루션을 제시합니다."-->
@@ -15,8 +14,6 @@
 
 
 ## 📊 직무 경험 (Experience)
-------
-
 **반도체배관 생산** @ 비비테크 & 한양이엔지 (2023/03 - 2023/11)
 
 - 효율적인 배관 관리 및 최적화 작업력을 바탕으로 설비당 Leak (배관누수) 및 불량시공 비율 5% 이하 달성 
@@ -32,9 +29,11 @@
 
 - 효과적인 커뮤니케이션 스킬과 협상 능력을 바탕으로 매매시작 3일만에 계약 달성
 - 매도자와 원활한 거래 중개 및 협상 능력을 바탕으로 매물등록 건수 월 35건으로 팀내 1위 달성
+------
+
+
 
 ## 📊 교육 (Education)
-------
 🏫 신한대학교 (2015.07 - 2018.08)
 
 - 측량 전공 & 토지행정학과
@@ -42,16 +41,18 @@
 🏫 신흥대학교 (2011.03 - 2015.07)
 
 - 부동산 전공 & 지적부동산학과
+------
 
 
 ## 📊 보유 스킬 (Skill)
-------
 - Python - Pandas, Numpy, Matplotlib, Sklearn
 - SQL - DBMS, RDBMS
+------
+
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/trash.jpeg)
+![trash](assets/img/Lang_chain.png)
 
 [딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
 - CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
