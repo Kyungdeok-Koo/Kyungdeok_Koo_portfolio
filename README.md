@@ -17,26 +17,37 @@
 ## 📊 직무 경험 (Experience)
 ------
 
+**반도체배관 생산** @ 비비테크 & 한양이엔지 (2023/03 - 2023/11)
+
+- 효율적인 배관 관리 및 최적화 작업력을 바탕으로 설비당 Leak (배관누수) 및 불량시공 비율 5% 이하 달성 
+- ISO 매트릭을 활용한 철저한 배관 실측 및 최적의 동선 설계를 기반으로 공간 활용도 극대화
+
 **E-커머스 영업** @ 큐소닉 (2019/12 - 2023/02)
+
 - 온라인마켓 MD와 원활한 커뮤니케이션을 통한 신규 거래처 확보 및 장기적 파트너십 구축으로 스마트모니터 판매증가량 400% 달성
 - 수금일정 관리 및 매 ‘주’단위 정산비용 체크를 통한 정산 담당기간동안 미수금 zero 달성 
 
 
-**부동산 영업** @ 두바이 부동산중개법인 (2019/01 - 졸업연도/월)
+**부동산 영업** @ 두바이 부동산중개법인 (2019/01 - 2019/10)
 
-- Achieve X with measurement of Y using Z
-
+- 효과적인 커뮤니케이션 스킬과 협상 능력을 바탕으로 매매시작 3일만에 계약 달성
+- 매도자와 원활한 거래 중개 및 협상 능력을 바탕으로 매물등록 건수 월 35건으로 팀내 1위 달성
 
 ## 📊 교육 (Education)
 ------
-🏫 학교 이름 (시작연도 - 졸업연도)
+🏫 신한대학교 (2015.07 - 2018.08)
 
-- 전공 & 과 이름
+- 측량 전공 & 토지행정학과
+
+🏫 신흥대학교 (2011.03 - 2015.07)
+
+- 부동산 전공 & 지적부동산학과
 
 
 ## 📊 보유 스킬 (Skill)
 ------
-- 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
+- Python - Pandas, Numpy, Matplotlib, Sklearn
+- SQL - DBMS, RDBMS
 
 ## 📊 프로젝트 (Project)
 ------
@@ -44,6 +55,11 @@
 
 [딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
 - CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
+
+![newyork](assets/img/newyork.jpeg)
+
+[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
+- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
 
 ![newyork](assets/img/newyork.jpeg)
 
